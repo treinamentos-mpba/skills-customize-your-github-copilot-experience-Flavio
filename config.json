@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "fastapi-sqlite-persistence",
+      "title": "Persistência de Dados com SQLite e FastAPI",
+      "description": "Atualize uma API FastAPI para persistir tarefas em SQLite, praticando consultas parametrizadas e operações CRUD.",
+      "path": "assignments/fastapi-sqlite-persistence",
+      "dueDate": "2026-11-04",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
